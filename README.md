@@ -1,0 +1,1 @@
+# swift_make_thumbnail_image_out_of_video_extension
